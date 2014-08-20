@@ -1,0 +1,286 @@
+/**
+ * "CCS64" palette
+ */
+
+$c64_ccs64: (
+		c64-black : rgb(25, 29, 25),
+		c64-white : rgb(252, 249, 252),
+		c64-red : rgb(147, 58, 76),
+		c64-cyan : rgb(182, 250, 250),
+		c64-purple : rgb(210, 125, 237),
+		c64-green : rgb(106, 207, 111),
+		c64-blue : rgb(79, 68, 216),
+		c64-yellow : rgb(251, 251, 139),
+		c64-orange : rgb(216, 156, 91),
+		c64-brown : rgb(127, 83, 7),
+		c64-light-red : rgb(239, 131, 159),
+		c64-dark-grey : rgb(87, 87, 87),
+		c64-grey : rgb(167, 167, 167),
+		c64-light-green : rgb(183, 251, 191),
+		c64-light-blue : rgb(163, 151, 244),
+		c64-light-grey : rgb(239, 249, 231)
+);
+
+/**
+ * "light" palette
+ */
+$c64_light: (
+		c64-black : rgb(0, 0, 0),
+		c64-white : rgb(255, 255, 255),
+		c64-red : rgb(139, 31, 0),
+		c64-cyan : rgb(101, 205, 168),
+		c64-purple : rgb(167, 59, 159),
+		c64-green : rgb(79, 179, 23),
+		c64-blue : rgb(27, 13, 147),
+		c64-yellow : rgb(243, 235, 91),
+		c64-orange : rgb(163, 71, 0),
+		c64-brown : rgb(63, 28, 0),
+		c64-light-red : rgb(203, 123, 111),
+		c64-dark-grey : rgb(69, 68, 68),
+		c64-grey : rgb(131, 131, 131),
+		c64-light-green : rgb(151, 255, 141),
+		c64-light-blue : rgb(79, 147, 211),
+		c64-light-grey : rgb(187, 187, 187)
+);
+
+/**
+ * "old" palette
+ */
+$c64_old: (
+		c64-black : rgb(0, 0, 0),
+		c64-white : rgb(255, 255, 255),
+		c64-red : rgb(136, 0, 0),
+		c64-cyan : rgb(170, 255, 238),
+		c64-purple : rgb(204, 68, 204),
+		c64-green : rgb(0, 204, 85),
+		c64-blue : rgb(0, 0, 170),
+		c64-yellow : rgb(238, 238, 119),
+		c64-orange : rgb(221, 136, 85),
+		c64-brown : rgb(102, 68, 0),
+		c64-light-red : rgb(255, 119, 119),
+		c64-dark-grey : rgb(51, 51, 51),
+		c64-grey : rgb(119, 119, 119),
+		c64-light-green : rgb(170, 255, 102),
+		c64-light-blue : rgb(0, 136, 255),
+		c64-light-grey : rgb(187, 187, 187)
+);
+
+/**
+ * "old2" palette
+ */
+$c64_old2: (
+		c64-black : rgb(11, 2, 11),
+		c64-white : rgb(255, 248, 255),
+		c64-red : rgb(164, 48, 76),
+		c64-cyan : rgb(112, 218, 206),
+		c64-purple : rgb(172, 56, 191),
+		c64-green : rgb(79, 189, 80),
+		c64-blue : rgb(62, 41, 205),
+		c64-yellow : rgb(240, 248, 97),
+		c64-orange : rgb(172, 88, 23),
+		c64-brown : rgb(111, 64, 0),
+		c64-light-red : rgb(224, 105, 129),
+		c64-dark-grey : rgb(91, 83, 91),
+		c64-grey : rgb(142, 134, 142),
+		c64-light-green : rgb(164, 248, 166),
+		c64-light-blue : rgb(131, 111, 255),
+		c64-light-grey : rgb(191, 184, 191)
+);
+
+/**
+ * "pepto" palette
+ */
+$c64_pepto: (
+		c64-black : rgb(0, 0, 0),
+		c64-white : rgb(255, 255, 255),
+		c64-red : rgb(104, 55, 43),
+		c64-cyan : rgb(11, 164, 178),
+		c64-purple : rgb(111, 61, 134),
+		c64-green : rgb(88, 141, 67),
+		c64-blue : rgb(53, 40, 121),
+		c64-yellow : rgb(184, 199, 111),
+		c64-orange : rgb(111, 79, 37),
+		c64-brown : rgb(67, 57, 0),
+		c64-light-red : rgb(154, 103, 89),
+		c64-dark-grey : rgb(68, 68, 68),
+		c64-grey : rgb(108, 108, 108),
+		c64-light-green : rgb(154, 210, 132),
+		c64-light-blue : rgb(108, 94, 181),
+		c64-light-grey : rgb(149, 149, 149)
+);
+
+/**
+ * "deekay" palette
+ */
+$c64_deekay: (
+		c64-black : rgb(0, 0, 0),
+		c64-white : rgb(255, 255, 255),
+		c64-red : rgb(136, 32, 0),
+		c64-cyan : rgb(104, 208, 168),
+		c64-purple : rgb(168, 56, 160),
+		c64-green : rgb(80, 184, 24),
+		c64-blue : rgb(24, 16, 144),
+		c64-yellow : rgb(240, 232, 88),
+		c64-orange : rgb(160, 72, 0),
+		c64-brown : rgb(71, 43, 27),
+		c64-light-red : rgb(200, 120, 112),
+		c64-dark-grey : rgb(72, 72, 72),
+		c64-grey : rgb(128, 128, 128),
+		c64-light-green : rgb(152, 255, 152),
+		c64-light-blue : rgb(80, 144, 208),
+		c64-light-grey : rgb(184, 184, 184)
+);
+
+/**
+ * "frodo" palette
+ */
+$c64_frodo: (
+		c64-black : rgb(0, 0, 0),
+		c64-white : rgb(255, 255, 255),
+		c64-red : rgb(204, 0, 0),
+		c64-cyan : rgb(0, 255, 204),
+		c64-purple : rgb(255, 0, 255),
+		c64-green : rgb(0, 204, 0),
+		c64-blue : rgb(0, 0, 204),
+		c64-yellow : rgb(255, 255, 0),
+		c64-orange : rgb(255, 136, 0),
+		c64-brown : rgb(136, 68, 0),
+		c64-light-red : rgb(255, 136, 136),
+		c64-dark-grey : rgb(68, 68, 68),
+		c64-grey : rgb(136, 136, 136),
+		c64-light-green : rgb(136, 255, 136),
+		c64-light-blue : rgb(136, 136, 255),
+		c64-light-grey : rgb(204, 204, 204)
+);
+
+/**
+ * "gryf elysium" palette
+ */
+$c64_gryf_elysium: (
+		c64-black : rgb(0, 0, 0),
+		c64-white : rgb(255, 255, 255),
+		c64-red : rgb(198, 0, 0),
+		c64-cyan : rgb(0, 181, 181),
+		c64-purple : rgb(178, 66, 178),
+		c64-green : rgb(46, 150, 46),
+		c64-blue : rgb(23, 63, 194),
+		c64-yellow : rgb(211, 211, 112),
+		c64-orange : rgb(193, 90, 0),
+		c64-brown : rgb(91, 50, 8),
+		c64-light-red : rgb(230, 122, 122),
+		c64-dark-grey : rgb(85, 85, 85),
+		c64-grey : rgb(130, 130, 130),
+		c64-light-green : rgb(42, 232, 112),
+		c64-light-blue : rgb(79, 123, 255),
+		c64-light-grey : rgb(160, 160, 160)
+);
+
+/**
+ * "jpz" palette (a dirty one)
+ */
+$c64_jpz: (
+		c64-black : rgb(64, 64, 64),
+		c64-white : rgb(127, 127, 127),
+		c64-red : rgb(110, 74, 64),
+		c64-cyan : rgb(84, 109, 127),
+		c64-purple : rgb(114, 68, 108),
+		c64-green : rgb(75, 107, 87),
+		c64-blue : rgb(78, 66, 127),
+		c64-yellow : rgb(127, 119, 70),
+		c64-orange : rgb(112, 83, 64),
+		c64-brown : rgb(98, 127, 64),
+		c64-light-red : rgb(125, 90, 79),
+		c64-dark-grey : rgb(83, 83, 83),
+		c64-grey : rgb(93, 93, 93),
+		c64-light-green : rgb(91, 127, 106),
+		c64-light-blue : rgb(84, 88, 127),
+		c64-light-grey : rgb(105, 105, 105),
+);
+
+/**
+ * "moog agony" palette
+ */
+$c64_moog_agony: (
+		c64-black : rgb(0, 0, 0),
+		c64-white : rgb(255, 255, 255),
+		c64-red : rgb(168, 0, 0),
+		c64-cyan : rgb(4, 176, 160),
+		c64-purple : rgb(164, 5, 153),
+		c64-green : rgb(52, 148, 52),
+		c64-blue : rgb(2, 2, 195),
+		c64-yellow : rgb(221, 205, 2),
+		c64-orange : rgb(177, 77, 2),
+		c64-brown : rgb(128, 44, 0),
+		c64-light-red : rgb(221, 82, 82),
+		c64-dark-grey : rgb(80, 80, 80),
+		c64-grey : rgb(126, 126, 126),
+		c64-light-green : rgb(145, 255, 117),
+		c64-light-blue : rgb(0, 119, 255),
+		c64-light-grey : rgb(156, 156, 156)
+);
+
+/**
+ * "vice" palette
+ */
+$c64_vice: (
+		c64-black : rgb(0, 0, 0),
+		c64-white : rgb(253, 254, 252),
+		c64-red : rgb(190, 26, 36),
+		c64-cyan : rgb(48, 230, 198),
+		c64-purple : rgb(180, 26, 226),
+		c64-green : rgb(31, 162, 30),
+		c64-blue : rgb(33, 27, 174),
+		c64-yellow : rgb(223, 246, 10),
+		c64-orange : rgb(184, 65, 4),
+		c64-brown : rgb(106, 51, 4),
+		c64-light-red : rgb(254, 74, 87),
+		c64-dark-grey : rgb(66, 69, 64),
+		c64-grey : rgb(112, 116, 111),
+		c64-light-green : rgb(89, 254, 89),
+		c64-light-blue : rgb(95, 83, 254),
+		c64-light-grey : rgb(164, 167, 162)
+);
+
+/**
+ * "wanja inverse" palette
+ */
+$c64_wanja_inverse: (
+		c64-black : rgb(0, 0, 0),
+		c64-white : rgb(255, 255, 255),
+		c64-red : rgb(74, 82, 173),
+		c64-cyan : rgb(247, 247, 115),
+		c64-purple : rgb(189, 107, 189),
+		c64-green : rgb(115, 231, 115),
+		c64-blue : rgb(198, 66, 66),
+		c64-yellow : rgb(123, 255, 255),
+		c64-orange : rgb(47, 142, 200),
+		c64-brown : rgb(57, 99, 132),
+		c64-light-red : rgb(156, 156, 255),
+		c64-dark-grey : rgb(123, 123, 123),
+		c64-grey : rgb(148, 148, 148),
+		c64-light-green : rgb(165, 255, 165),
+		c64-light-blue : rgb(247, 156, 156),
+		c64-light-grey : rgb(206, 206, 206)
+);
+
+/**
+ * "wanja" palette
+ */
+$c64_wanja: (
+		c64-black : rgb(0, 0, 0),
+		c64-white : rgb(255, 255, 255),
+		c64-red : rgb(173, 82, 74),
+		c64-cyan : rgb(115, 247, 247),
+		c64-purple : rgb(189, 107, 189),
+		c64-green : rgb(115, 231, 115),
+		c64-blue : rgb(66, 66, 198),
+		c64-yellow : rgb(255, 255, 123),
+		c64-orange : rgb(200, 142, 47),
+		c64-brown : rgb(132, 99, 57),
+		c64-light-red : rgb(255, 156, 156),
+		c64-dark-grey : rgb(123, 123, 123),
+		c64-grey : rgb(148, 148, 148),
+		c64-light-green : rgb(165, 255, 165),
+		c64-light-blue : rgb(156, 156, 247),
+		c64-light-grey : rgb(206, 206, 206),
+);
