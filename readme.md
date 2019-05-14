@@ -42,6 +42,8 @@ Palette names:
 * vice *(taken from emulator)*
 * wanja
 * wanja_inverse
+* colodore (the successor of the 2001 pepto palette)
+* godot (taken from https://godot64.de/german/hpalet.htm; suggested by @godot64)
 
 Color names:
 -

@@ -284,3 +284,47 @@ $c64_wanja: (
 		c64-light-blue : rgb(156, 156, 247),
 		c64-light-grey : rgb(206, 206, 206),
 );
+
+/**
+ * "colodore"; the successor of the 2001 pepto palette
+ */
+$c64_colodore: (
+		c64-black: rgb(0, 0, 0),
+		c64-white: rgb(255, 255, 255),
+		c64-red: rgb(129, 51, 56),
+		c64-cyan: rgb(117, 206, 200),
+		c64-purple: rgb(142, 60, 151),
+		c64-green: rgb(86, 172, 77),
+		c64-blue: rgb(46, 44, 155),
+		c64-yellow: rgb(237, 241, 113),
+		c64-orange: rgb(142, 80, 41),
+		c64-brown: rgb(85, 56, 0),
+		c64-light-red: rgb(196, 108, 113),
+		c64-dark-grey: rgb(74, 74, 74),
+		c64-grey: rgb(123, 123, 123),
+		c64-light-green: rgb(169, 255, 159),
+		c64-light-blue: rgb(112, 109, 235),
+		c64-light-grey: rgb(178, 178, 178)
+);
+
+/**
+ * "GoDot"; taken from https://godot64.de/german/hpalet.htm
+ */
+$c64_godot: (
+		c64-black: rgb(0, 0, 0),
+		c64-white: rgb(255, 255, 255),
+		c64-red: rgb(136, 0, 0),
+		c64-cyan: rgb(170, 255, 238),
+		c64-purple: rgb(204, 68, 204),
+		c64-green: rgb(0, 204, 85),
+		c64-blue: rgb(0, 0, 170),
+		c64-yellow: rgb(238, 238, 119),
+		c64-orange: rgb(221, 136, 85),
+		c64-brown: rgb(102, 68, 0),
+		c64-light-red: rgb(255, 119, 119),
+		c64-dark-grey: rgb(51, 51, 51),
+		c64-grey: rgb(119, 119, 119),
+		c64-light-green: rgb(170, 255, 102),
+		c64-light-blue: rgb(0, 136, 255),
+		c64-light-grey: rgb(187, 187, 187)
+);
